@@ -2,4 +2,5 @@ Software carpentry workshop
 ==========================
 
 This contains
-*analysis python module
+* analysis python module
+* pipeline.sh
