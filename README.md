@@ -3,4 +3,4 @@ Software carpentry workshop
 
 This contains
 * analysis python module
-* pipeline.sh
+* pipeline.sh NOT CREATED
